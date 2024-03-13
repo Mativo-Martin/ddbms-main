@@ -15,8 +15,8 @@ It uses dbLink as its gateway to communicate with other fragments
 * docker-compose
 
 - git clone the repo:
- `git clone https://github.com/Mativo-Martin/DDBMS-MAIN`
+ `https://github.com/Mativo-Martin/ddbms-main.git`
 - cd to the project folder: 
-`cd ddbs/main_site_1`   
+`docker cp ddbs/main_site_1`   
 - start up the container:
     `docker-compose up`

@@ -15,7 +15,7 @@ Site uses `MYSQL` as its local DBMS.
 * docker-compose
 
 - git clone the repo:
- `git clone https://github.com/brayomumo/ddbs`
+ https://github.com/Mativo-Martin/ddbms-main.git
 - cd to the project folder: 
 `cd ddbs/site_3`   
 - start up the container:

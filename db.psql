@@ -165,11 +165,11 @@ VALUES
 
 INSERT INTO employee3 (name, email, date_of_birth, phone_number, department) 
 VALUES 
-(101,'brian', 'brian@gmail.com', '1995-06-01', 74567890, 'executive') 
+(101,'brian', 'brian@gmail.com', '1995-06-01', 74567890, 'administrative') 
 (102,'john', 'john@gmail.com', '1995-06-01', 74567890, 'hr') 
 (103,'mary', 'mary@gmail.com', '1995-06-01', 74567890, 'hr') 
-(104,'james', 'james@gmail.com', '1995-06-01', 74567890, 'executive') 
-(105,'collins', 'collins@gmail.com', '1995-06-01', 74567890, 'executive') 
+(104,'james', 'james@gmail.com', '1995-06-01', 74567890, 'administrative') 
+(105,'collins', 'collins@gmail.com', '1995-06-01', 74567890, 'administrative') 
 
 
 INSERT INTO hr_accounts(employee_id, job_group, salary, date_paid)
@@ -199,10 +199,10 @@ VALUES
 
 INSERT INTO vehicle (id, reg_no, model, date_bought)
 VALUES
-(1001, 'reg1', 'isuzu', '2008-12-3')
-(1002, 'reg2', 'isuzu', '2008-12-3')
-(1003, 'reg3', 'isuzu', '2008-12-3')
-(1004, 'reg3', 'isuzu', '2008-12-3')
+(1001, 'reg1', 'Toyoya', '2008-12-3')
+(1002, 'reg2', 'Toyoya', '2008-12-3')
+(1003, 'reg3', 'Toyoya', '2008-12-3')
+(1004, 'reg3', 'Toyoya', '2008-12-3')
 
 INSERT INTO garage(id, name, email, address, phone_number)
 VALUES
