@@ -1,3 +1,4 @@
 postgres-data/
 mssql-data/
 mysql-data/
+.env
